@@ -1,4 +1,4 @@
-# Serverless Telegram Bot on AWS
+# Serverless Telegram Bot built on AWS
 
 A NodeJS Telegram bot deployed using Pulumi.
 
@@ -79,8 +79,3 @@ pulumi destroy
 ```
 
 - Talk to [@BotFather](https://telegram.me/BotFather) to delete the bot.
-
-## Acknowledgements
-
-- [Serverless Telegram Bot - Python Example](https://github.com/serverless/examples/tree/master/aws-python-telegram-bot)
-- [Telegram notifications bot with Firebase Cloud Functions](https://medium.com/@maail/telegram-notifications-bot-with-firebase-cloud-functions-4d88fd88cd78)
